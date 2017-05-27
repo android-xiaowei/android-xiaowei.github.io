@@ -1,0 +1,258 @@
+{
+  "configs": [
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "zjw959",
+      "remarks": "英国",
+      "server": "45.32.182.144",
+      "server_port": 10473
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "zjw959",
+      "remarks": "维也纳 CN2",
+      "server": "159.100.24.23",
+      "server_port": 10473
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "zjw959",
+      "remarks": "俄罗斯远东",
+      "server": "92.223.72.190",
+      "server_port": 10473
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "zjw959",
+      "remarks": "韩国SK",
+      "server": "218.234.16.86",
+      "server_port": 10473
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "zjw959",
+      "remarks": "韩国KT 1",
+      "server": "45.249.90.29",
+      "server_port": 10473
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "zjw959",
+      "remarks": "韩国KT 2",
+      "server": "175.211.109.78",
+      "server_port": 10473
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "zjw959",
+      "remarks": "韩国BGP",
+      "server": "103.214.68.213",
+      "server_port": 10473
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "zjw959",
+      "remarks": "台湾1 Hinet",
+      "server": "60.249.100.247",
+      "server_port": 10473
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "zjw959",
+      "remarks": "台湾2 远传",
+      "server": "113.196.113.133",
+      "server_port": 10473
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "zjw959",
+      "remarks": "香港2",
+      "server": "27.0.232.195",
+      "server_port": 10473
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "zjw959",
+      "remarks": "香港4 CN2",
+      "server": "47.89.15.16",
+      "server_port": 10473
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "zjw959",
+      "remarks": "香港5 CN2",
+      "server": "47.89.23.187",
+      "server_port": 10473
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "zjw959",
+      "remarks": "香港S1 CN2",
+      "server": "47.90.96.126",
+      "server_port": 10473
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "zjw959",
+      "remarks": "香港S2 CN2",
+      "server": "47.52.78.26",
+      "server_port": 10473
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "zjw959",
+      "remarks": "香港8 SV",
+      "server": "123.103.252.30",
+      "server_port": 10473
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "zjw959",
+      "remarks": "香港11",
+      "server": "218.255.101.104",
+      "server_port": 10473
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "zjw959",
+      "remarks": "香港12",
+      "server": "103.44.61.117",
+      "server_port": 10473
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "zjw959",
+      "remarks": "美国5 QN",
+      "server": "69.12.89.41",
+      "server_port": 10473
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "zjw959",
+      "remarks": "美国9 CN2",
+      "server": "209.177.82.151",
+      "server_port": 10473
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "zjw959",
+      "remarks": "美国10 CN2",
+      "server": "209.177.82.181",
+      "server_port": 10473
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "zjw959",
+      "remarks": "美国11 CN2",
+      "server": "103.76.105.141",
+      "server_port": 10473
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "zjw959",
+      "remarks": "新加坡 3 Premium",
+      "server": "116.251.222.249",
+      "server_port": 10473
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "zjw959",
+      "remarks": "日本1",
+      "server": "210.140.82.234",
+      "server_port": 10473
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "zjw959",
+      "remarks": "日本2",
+      "server": "210.140.72.249",
+      "server_port": 10473
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "zjw959",
+      "remarks": "日本3",
+      "server": "210.129.49.184",
+      "server_port": 10473
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "zjw959",
+      "remarks": "日本4",
+      "server": "210.129.18.192",
+      "server_port": 10473
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "zjw959",
+      "remarks": "日本5 樱花东京",
+      "server": "160.16.231.185",
+      "server_port": 10473
+    },
+    {
+      "obfs": "tls1.2_ticket_auth",
+      "protocol": "auth_sha1_v4",
+      "method": "chacha20",
+      "password": "zjw959",
+      "remarks": "日本6 樱花东京",
+      "server": "160.16.63.150",
+      "server_port": 10473
+    }
+  ],
+  "localPort": 1080,
+  "shareOverLan": false
+}
